@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Tanmay!
 
 - 📝 I'm a Master's student studying Informatics at the Technical University of Munich (TUM)
-- 👨‍💼 I worked as a teaching assistant for the subject "Fundamental of Databases" (_Grundlagen: Datenbanken_) in winter semester 2024 at TUM
-- 🌱 Currently, I'm very interested in the field of natural language processing for low-resource languages. I worked in this field in my bachelor practical course and am writing a bachelor thesis on the same
+- 👨‍💼 I currently work at the Chair for Robotics, Artifical Intelligence and Real-Time Systems as a student assistant. I also previously worked as a teaching assistant for the subject "Fundamental of Databases" (_Grundlagen: Datenbanken_) in winter semester 2024 at TUM
+- 🌱 Currently, I'm very interested in the field of natural language processing for low-resource languages. I worked in this field in my bachelor practical course and also wrote a bachelor thesis on the same. 
 - ⚡ My hobbies include creative writing, TTRPGs and reading
